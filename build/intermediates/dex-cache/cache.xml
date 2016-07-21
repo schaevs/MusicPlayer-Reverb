@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c54f3605d4a0e020c3a7fb0122cf56d0f7ef21e1">
+        <dex dex="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a83269ad98d4502920db046ca3279486fd2d8a31/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_d570f9b2d9d7807342b30e099975104b71c5968c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_75f2b395bad5ec965aae9881bb6d394e0a659fc5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_eb00ec335a97c4009bfb0f0167664876955d37c5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexanderschaevitz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_97696e9c468e4dc4ce19ea091fbff2a2820ac8b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8499c46684970b59980640df534dc05ba02a5a03">
+        <dex dex="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4fb02f3076345ab950e5f06416a0903f7795b86b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2b0a3e1043fe68cfb66101b2d75c461e4d060102/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/alexanderschaevitz/AndroidStudioProjects/MusicPlayer06/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_30d7c3d4499df6865580f7474fc8522c865fe1d1/classes.dex" />
+    </item>
+
+</items>
